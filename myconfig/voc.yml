@@ -18,4 +18,4 @@ EvalDataset:
 
 TestDataset:
   !ImageFolder
-    anno_path: dataset/voc/label_list.txt
+    anno_path: dataset/aluminum_ssd_voc/label_list.txt
