@@ -1,0 +1,33 @@
+<annotation>
+    <folder>images</folder>
+    <filename>1228.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>ca_shang</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>271</xmin>
+            <ymin>206</ymin>
+            <xmax>421</xmax>
+            <ymax>323</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>zang_wu</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>275</xmin>
+            <ymin>133</ymin>
+            <xmax>389</xmax>
+            <ymax>195</ymax>
+        </bndbox>
+    </object>
+</annotation>

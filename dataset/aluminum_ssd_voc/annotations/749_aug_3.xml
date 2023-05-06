@@ -1,0 +1,21 @@
+<annotation>
+    <folder>images</folder>
+    <filename>749.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>zhe_zhou</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>118</xmin>
+            <ymin>3</ymin>
+            <xmax>569</xmax>
+            <ymax>487</ymax>
+        </bndbox>
+    </object>
+</annotation>

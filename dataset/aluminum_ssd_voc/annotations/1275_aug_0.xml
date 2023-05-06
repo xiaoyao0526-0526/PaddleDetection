@@ -1,0 +1,33 @@
+<annotation>
+    <folder>images</folder>
+    <filename>1275.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>zhe_zhou</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>136</xmin>
+            <ymin>157</ymin>
+            <xmax>543</xmax>
+            <ymax>379</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>ca_shang</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>241</xmin>
+            <ymin>107</ymin>
+            <xmax>321</xmax>
+            <ymax>223</ymax>
+        </bndbox>
+    </object>
+</annotation>

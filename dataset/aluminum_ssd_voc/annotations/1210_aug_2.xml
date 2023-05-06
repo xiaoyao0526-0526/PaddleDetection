@@ -1,0 +1,33 @@
+<annotation>
+    <folder>images</folder>
+    <filename>1210.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>zang_wu</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>133</xmin>
+            <ymin>229</ymin>
+            <xmax>258</xmax>
+            <ymax>354</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>zang_wu</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>300</xmin>
+            <ymin>259</ymin>
+            <xmax>421</xmax>
+            <ymax>407</ymax>
+        </bndbox>
+    </object>
+</annotation>

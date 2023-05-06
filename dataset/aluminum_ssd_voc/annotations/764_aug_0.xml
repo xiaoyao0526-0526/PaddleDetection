@@ -1,0 +1,33 @@
+<annotation>
+    <folder>images</folder>
+    <filename>764.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>zang_wu</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>354</xmin>
+            <ymin>281</ymin>
+            <xmax>475</xmax>
+            <ymax>403</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>zhe_zhou</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>66</xmin>
+            <ymin>35</ymin>
+            <xmax>531</xmax>
+            <ymax>483</ymax>
+        </bndbox>
+    </object>
+</annotation>

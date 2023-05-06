@@ -1,0 +1,33 @@
+<annotation>
+    <folder>images</folder>
+    <filename>1015.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>zang_wu</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>223</xmin>
+            <ymin>332</ymin>
+            <xmax>310</xmax>
+            <ymax>427</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>zhe_zhou</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>118</xmin>
+            <ymin>84</ymin>
+            <xmax>508</xmax>
+            <ymax>413</ymax>
+        </bndbox>
+    </object>
+</annotation>

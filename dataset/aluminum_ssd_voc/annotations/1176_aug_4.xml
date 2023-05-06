@@ -1,0 +1,21 @@
+<annotation>
+    <folder>images</folder>
+    <filename>1176.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>ca_shang</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>224</xmin>
+            <ymin>210</ymin>
+            <xmax>421</xmax>
+            <ymax>346</ymax>
+        </bndbox>
+    </object>
+</annotation>

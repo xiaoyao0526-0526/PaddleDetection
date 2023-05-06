@@ -1,0 +1,15 @@
+epoch: 40
+
+LearningRate:
+  base_lr: 0.001
+  schedulers:
+  - !PiecewiseDecay
+    use_warmup: false
+
+OptimizerBuilder:
+  optimizer:
+    momentum: 0.0
+    type: RMSProp
+  regularizer:
+    factor: 0.00005
+    type: L2

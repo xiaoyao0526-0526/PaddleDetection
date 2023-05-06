@@ -1,0 +1,33 @@
+<annotation>
+    <folder>images</folder>
+    <filename>98.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>ca_shang</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>311</xmin>
+            <ymin>330</ymin>
+            <xmax>365</xmax>
+            <ymax>436</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>zhe_zhou</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>190</xmin>
+            <ymin>179</ymin>
+            <xmax>465</xmax>
+            <ymax>348</ymax>
+        </bndbox>
+    </object>
+</annotation>

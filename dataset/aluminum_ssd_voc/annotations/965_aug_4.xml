@@ -1,0 +1,33 @@
+<annotation>
+    <folder>images</folder>
+    <filename>965.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>ca_shang</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>105</xmin>
+            <ymin>178</ymin>
+            <xmax>408</xmax>
+            <ymax>519</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>ca_shang</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>281</xmin>
+            <ymin>2</ymin>
+            <xmax>509</xmax>
+            <ymax>257</ymax>
+        </bndbox>
+    </object>
+</annotation>

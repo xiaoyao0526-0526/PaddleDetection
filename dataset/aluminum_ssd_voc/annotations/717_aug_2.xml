@@ -1,0 +1,33 @@
+<annotation>
+    <folder>images</folder>
+    <filename>717.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>ca_shang</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>50</xmin>
+            <ymin>112</ymin>
+            <xmax>449</xmax>
+            <ymax>524</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>ca_shang</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>285</xmin>
+            <ymin>-35</ymin>
+            <xmax>548</xmax>
+            <ymax>198</ymax>
+        </bndbox>
+    </object>
+</annotation>
