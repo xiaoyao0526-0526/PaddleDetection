@@ -1,7 +1,7 @@
 # 准备环境
 
 ```shell
-git clone https://gitee.com/paddlepaddle/PaddleDetection.git -b release/2.2
+git clone https://github.com/xiaoyao0526-0526/PaddleDetection.git
 ```
 - 切换路径
 ```shell
