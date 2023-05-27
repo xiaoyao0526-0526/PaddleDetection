@@ -45,6 +45,10 @@ python tools/train.py -c myconfig/ssd_mobilenet_v1.yml --slim_config myconfig/ss
 ```shell
 python tools/infer.py -c myconfig/ssd_mobilenet_v1.yml --slim_config myconfig/ssd_mobilenet_v1_qat.yml -o weights=output/ssd_mobilenet_v1_qat/best_model --infer_img=dataset/aluminum_ssd_voc/images/1003.jpg --draw_threshold=0.5
 ```
+- 推理到一个文件夹
+```shell
+python -u tools/infer.py -c myconfig/ssd_mobilenet_v1.yml --slim_config myconfig/ssd_mobilenet_v1_qat.yml -o weights=output/ssd_mobilenet_v1_qat/best_model --infer_img=dataset/aluminum_ssd_voc/images --output_dir=infer_output/testout
+```
 
 ---
 # 查看模型精度
