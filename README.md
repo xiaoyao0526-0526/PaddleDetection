@@ -198,7 +198,7 @@ export PATH=/opt/software/gcc-linaro-5.4.1-2017.05-x86_64_arm-linux-gnueabihf/bi
  ```
 - 配置板子IP，这样才能远程连接到板子
  ```shell
-export AIEP_HOST=172.16.208.109
+export AIEP_HOST=172.**.**.**
  ```
 ---
 - 请更改用户为su
