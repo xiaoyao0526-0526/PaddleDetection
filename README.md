@@ -118,15 +118,15 @@ python tools/export_model.py -c myconfig/ssd_mobilenet_v1.yml --slim_config myco
 ## 相关登陆信息
 - AIEP账户：
 ```shell
-CICC2559
+CICC****
 ```
 -  AIEP密码：
 ```shell
-hyjx6666
+****
 ```
 -  开发板IP：
 ```shell
-172.16.208.109
+*****
 ```
 -  开发板密码：随机
 
